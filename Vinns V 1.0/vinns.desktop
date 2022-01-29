@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=True
+Exec=python3 main.py
+Name=vinns
+Path=/home/aias/Desktop/V 1.0
+Name[en_US]=Vinns
+GenericName=Ozgur's 
+Comment[en_US]=Dedevinn
